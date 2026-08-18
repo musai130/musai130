@@ -3,9 +3,5 @@
   <br>
   <img src="https://github.pumbas.net/api/contributions/musai130?colour=FC4A4A" alt="GitHub contributions" />
   <br>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,react,nextjs,ts" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=," />
-  <br>
   <img src="https://i.ibb.co/Y7R4qr2z/Chat-GPT-Image-19-2026-01-09-42-Photoroom.png" alt="Chat-GPT-Image-19-2026-01-09-42-Photoroom" border="0" height="48" >
 </p>
